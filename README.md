@@ -4,7 +4,8 @@ The Vulnerability of GoAhead Service on VStarcam C34S-X4 that allows you to down
 ## !WARNING!
 The author is trying to draw the attention of the developers to the problem and I am not responsible for the harm caused to you or by you.
 --
-<br>
+
+
 # IMPLEMENTATION
 
 Еo perform the vulnerability, you must log in to the camera interface without authorization. Then, after the forward slash, you must add %5C%5Csystem.ini
