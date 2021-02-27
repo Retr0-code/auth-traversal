@@ -45,7 +45,9 @@ and than read as text downloaded file.
 <br>
 3) Now you can log in to web-panel.
 <br>
-![alt text]()
+
+![webPanel.png](https://github.com/Retr0-code/auth-treversal/blob/main/Images/webPanel.png)
+
 Or you can use 
 <br>
 
