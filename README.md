@@ -27,14 +27,14 @@ python3 GetInfo.py --help
 <br>
 ![alt text]()
 <br>
-Or you can use ```sh python3 GetInfo.py --host <camera ip> --port <web-server port>``` and than read as text downloaded file.
+Or you can use ``` python3 GetInfo.py --host <camera ip> --port <web-server port>``` and than read as text downloaded file.
 <br>
 ![alt text]()
 <br>
 3) Now you can log in to web-panel.
 <br>
 ![alt text]()
-Or you can use ```sh python3 GetInfo.py --onvif 10080 --host 192.168.0.58 --port 8888``` and you get links to snapshots and RTSP stream link.
+Or you can use ``` python3 GetInfo.py --onvif 10080 --host 192.168.0.58 --port 8888``` and you get links to snapshots and RTSP stream link.
 To get stream you have to specify login and password like this: <b>rtsp://username:password@ip:port/path/to/stream</b> In my case link looks like
 this rtsp://admin:888888@192.168.0.58:554/udp/av0_1
 <br>
