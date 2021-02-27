@@ -30,13 +30,11 @@ python3 GetInfo.py --help
 
 <br>
 Or you can use
-<br>
 
 ```sh
 python3 GetInfo.py --host <camera ip> --port <web-server port>
 ```
 
-<br>
 and than read as text downloaded file.
 <br>
 
