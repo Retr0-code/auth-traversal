@@ -1,0 +1,2 @@
+onvif_zeep
+requests
