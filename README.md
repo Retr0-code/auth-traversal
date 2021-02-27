@@ -38,11 +38,11 @@ python3 GetInfo.py --host <camera ip> --port <web-server port>
 
 <br>
 and than read as text downloaded file.
-
 <br>
+
 ![PythonLogPass.png](https://github.com/Retr0-code/auth-treversal/blob/main/Images/PythonLogPass.png)
-<br>
 
+<br>
 3) Now you can log in to web-panel.
 <br>
 ![alt text]()
@@ -58,4 +58,5 @@ and you get links to snapshots and RTSP stream link.
 To get stream you have to specify login and password like this: <b>rtsp://username:password@ip:port/path/to/stream</b> In my case link looks like
 this rtsp://admin:888888@192.168.0.58:554/udp/av0_1
 <br>
+
 ![OnvifShow.png](https://github.com/Retr0-code/auth-treversal/blob/main/Images/OnvifShow.png)
