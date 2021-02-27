@@ -25,7 +25,7 @@ python3 GetInfo.py --help
 2) You can go to you browser and enter this link <b>http://ip:port/%5C%5Csystem.ini</b>
 (You must change ip to address of camera and port to port that web-server run on).
 <br>
-![alt text]()
+![alt text](https://github.com/Retr0-code/auth-treversal/blob/main/Images/MozilaV.png)
 <br>
 Or you can use
 <br>
